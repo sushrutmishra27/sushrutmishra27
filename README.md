@@ -33,7 +33,7 @@
 
 - :seedling: Exploring Developer Relations/Advocacy and Community Management space.
 
-- :zap: In my free time, I write technical articles as a freelancer.
+- :zap: In my free time, I create content and write technical articles as a freelancer.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Sushrut-Hi-red)](https://sushrut.carrd.co)
   
