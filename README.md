@@ -29,7 +29,7 @@
 ---
 
 ### :man_technologist: About Me : I am a Developer and Technical Content Writer from India.
-- :telescope: I’m working as a Software Engineer with experience in Frontend Technologies, Web3, Salesforce, and Python.
+- :telescope: I’m a Developer Relations Engineer with experience in Frontend Technologies, Web3, Salesforce, and Python.
 
 - :seedling: Exploring Developer Relations/Advocacy and Community Management space.
 
