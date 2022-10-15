@@ -28,12 +28,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/sushrutmishra27/github-profile-trophy)
 ---
 
-### :man_technologist: About Me : I am a Developer and Technical Content Writer from India.
-- :telescope: I’m a Developer Relations Engineer at Fountane 
+### :man_technologist: A Developer Relations Engineer and Technical Writer from India.
+- :telescope: I’m a Community Manager at Fountane 
   
 - 📇: I have experience in Frontend Technologies, Web3, Salesforce, Python, Solidity, Git, GitHub, BitBucket, and many more.
 
-- :seedling: Exploring Developer Relations/Advocacy and Community Management space.
+- :seedling: Exploring Developer Relations/Advocacy and Web3 technology space.
 
 - :zap: In my free time, I create content and write technical articles as a freelancer.
 
