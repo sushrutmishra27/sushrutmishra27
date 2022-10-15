@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋, I'm Sushrut <h1> 
+<h1 align="center">Yo 👋, I'm Sushrut Mishra<h1> 
   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -29,7 +29,9 @@
 ---
 
 ### :man_technologist: About Me : I am a Developer and Technical Content Writer from India.
-- :telescope: I’m a Developer Relations Engineer with experience in Frontend Technologies, Web3, Salesforce, and Python.
+- :telescope: I’m a Developer Relations Engineer at Fountane 
+  
+- 📇: I have experience in Frontend Technologies, Web3, Salesforce, Python, Solidity, Git, GitHub, BitBucket, and many more.
 
 - :seedling: Exploring Developer Relations/Advocacy and Community Management space.
 
