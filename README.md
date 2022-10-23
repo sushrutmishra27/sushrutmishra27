@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h3 align="center">A Developer Relations Engineer at Fountane</h3>
+<h3 align="center">Developer Relations Engineer at Fountane</h3>
   
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/sushrutkm">
