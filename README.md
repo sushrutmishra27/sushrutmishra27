@@ -29,7 +29,7 @@
 ---
 
 ### :man_technologist: A Developer Relations Engineer and Technical Writer from India.
-- :telescope: I’m a Community Manager at Fountane 
+- :telescope: I’m a DevRel Manager (Community) at Fountane 
   
 - 📇 I have experience in Frontend Technologies, Web3, Salesforce, Python, Solidity, Git, GitHub, BitBucket, and many more.
 
