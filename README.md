@@ -24,15 +24,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/sushrutmishra27/github-profile-trophy)
 ---
 
-### :man_technologist: A Developer Relations Engineer and Technical Writer from India.
-- :telescope: I’m a DevRel Manager (Community) at Fountane 
-  
-- 📇 I have experience in Frontend Technologies, Web3, Salesforce, Python, Solidity, Git, GitHub, BitBucket, and many more.
-
-- :seedling: Exploring Developer Relations/Advocacy and Web3 technology space.
-
-- :zap: In my free time, I create content and write technical articles as a freelancer.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Sushrut-Hi-red)](https://sushrut.carrd.co)
   
 ---
