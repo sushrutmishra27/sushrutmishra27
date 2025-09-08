@@ -5,7 +5,9 @@
 </div>
 
 <h3 align="center">Content Marketing Manager at Bito.ai</h3>
-<a href="https://bito.ai"><h4 align="center">Sign up to Bito.ai for codebase aware AI Code Reviews</h3></a>
+<a href="https://bito.ai">
+  <h4 align="center">Sign up to Bito.ai for codebase aware AI Code Reviews</h4>
+</a>
   
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/sushrutkm">
